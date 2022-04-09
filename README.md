@@ -1,7 +1,7 @@
 
 ## 👋 Hi there
 ## I'm Rashmitha
-<div id="header" align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0da5cbca5d728a789100439958f50235%2Ftenor.gif%3Fitemid%3D12957067&f=1&nofb=1" height="200"></div>
+<div><img src="https://github.com/Rashmithakulal/gif/blob/main/output-onlinegiftools%20(2).gif" height="200"></div>
 <br>
 - 👨‍🎓 Currently persuing B-Tech in Electronics And Communication Engineering <br>
 - 👀 I'm intrigued by coding and tackling real-world challenges.<br>
