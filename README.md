@@ -12,7 +12,7 @@
  <a href="https://twitter.com/KulalRashmitha">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="20"/></a>
   <br>
-- 📫How to reach me through.."rashmithakulal2002@gmail.com"
+- 📫How to reach me through..*rashmithakulal2002@gmail.com*
 
 
 <!--
