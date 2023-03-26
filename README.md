@@ -1,7 +1,7 @@
 
 ## 👋 Hi there
 ## I'm Rashmitha
-<div><img src="https://github.com/Rashmithakulal/gif/blob/main/output-onlinegiftools%20(2).gif" height="200"></div>
+<div><img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" height="200"></div>
 <br>
 - 👨‍🎓 Currently persuing B-Tech in Electronics And Communication Engineering <br>
 - 👀 I'm intrigued by coding and tackling real-world challenges.<br>
